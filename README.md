@@ -1,2 +1,2 @@
 # Pagina_web
-toda la documentacion del proyecto
+toda la documentacion del sitio
